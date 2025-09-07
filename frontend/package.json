@@ -20,7 +20,7 @@
 		"gridjs": "^5.1.0",
 		"gridjs-react": "^5.1.0",
 		"moment": "^2.29.4",
-		"react": "^18.2.0",
+		"react": "^19.1.1",
 		"react-dom": "^18.2.0",
 		"react-hook-form": "^7.34.2",
 		"react-intl": "^6.0.5",
