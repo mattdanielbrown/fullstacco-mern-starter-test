@@ -25,7 +25,7 @@
 		"@types/multer": "^1.4.7",
 		"@types/node": "^17.0.42",
 		"@types/nodemailer": "^6.4.4",
-		"bcrypt": "^5.0.1",
+		"bcrypt": "^6.0.0",
 		"body-parser": "^1.20.0",
 		"cookie-parser": "^1.4.6",
 		"cors": "^2.8.5",
